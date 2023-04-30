@@ -1,0 +1,16 @@
+.contactform{
+    padding: 0 34px;
+    padding-top: 144px;
+    font-family: 'Fira sans ',sans-serif;
+  }
+  
+  .contactform h1{
+      font-family: 'Source code pro', monospace;
+      text-align: center;
+  }
+  
+  .contactform form div{
+      padding: 10px;
+  }
+  
+  
